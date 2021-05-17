@@ -2,7 +2,7 @@
 - 👨‍🎓 I'm IT engineering student at [TEK-UP University](https://www.linkedin.com/school/tek-up/)
 - 👀 I’m interested in Data Science and Web Development
 - 🌱 I’m currently learning (Python, R and Machine Learning)
-- 📫 How to resach me
+- 📫 How to reach me
   - E-Mail: Madhkour11@Gmail.com
   - Linkedin: [Mohamed Khalil MADHKOUR](https://www.linkedin.com/in/mohamed-khalil-madhkour-a650b1141/)
 
