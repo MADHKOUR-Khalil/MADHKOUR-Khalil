@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MADHKOUR-Khalil
 - 👨‍🎓 I'm IT Engineer from [TEK-UP University](https://www.linkedin.com/school/tek-up/)
-- 👀 I’m interested in Data Engineering, Business Intelligence and Database Administration
-- 🌱 I’m currently learning (Linux and Cloud)
+- 👀 I’m interested in Data Engineering, Business Intelligence
+- 🌱 I’m currently learning (Linux Shell and Shell Scripting)
 - 📫 How to reach me
   - E-Mail: Madhkour11@Gmail.com
   - Linkedin: [Mohamed Khalil MADHKOUR](https://www.linkedin.com/in/mohamed-khalil-madhkour-a650b1141/)
